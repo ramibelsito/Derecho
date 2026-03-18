@@ -149,3 +149,63 @@ Natalia Denegri c/ Google fue un caso sobre el llamado “derecho al olvido”. 
 
 La Corte Suprema argentina, en su fallo del 28 de junio de 2022, rechazó ese pedido. Dijo que, cuando la información es veraz, está vinculada a una persona pública y a un asunto de interés público, prevalecen la libertad de expresión y el derecho de acceso a la información. En otras palabras, la Corte no reconoció en este caso un derecho a borrar o desindexar ese pasado de internet solo por el paso del tiempo.
 
+## Clase 18-3
+
+### Persona
+> C.C. y C.N: La existencia de la persona humana comienza con la concepción.
+
+> Juridica: Todos los entes susceptibles de adquirir derechos o contraer obligaciones, que no son personas de existencia visible, son personas de existencia ideal o jurídica.
+
+Un acreedor por relación jurídica a un deudor tiene una obligación a dar una prestación destinada a satisfacer un interés lícito.
+
+*TIPOS DE OBLIGACIONES*
+- De dar: entrega de una cosa material
+- De hacer: ejecución de un acto
+- De no hacer: abstención de realizar un acto
+
+
+Elementos Básicos de las obligaciones:
+
+1. **Sujeto**: Acreedor y Deudor
+2. **Objeto**: Sobre la que recae la relación jurídica
+3. **Causa**: Contrato, Voluntad, Hechos Ilícitos
+
+Extinsión de las obligaciones:
+1. Por el pago: que tiene que ser de la forma acordada (si compro manzanas para exportación y me las entregan tiradas en el piso no se esta cumpliendo)
+2. Por la novación: Se puede extinción de las obligaciones por la creación de una nueva obligación.
+3. Por la compensación: Puedo dar como garantía parte de un patrimonio. Hay que tener cuidado porque por ejemplo si alguien da como garantía una casa y al día siguiente la vende y ya no sirve más como garantía porque no tiene titularidad. Por ello se puede pedir que se acepta bajo la condición de titularidad o algo por el estilo, haciendo que si la vende no se acepta más como garantía.
+4. Por renuncia: Simplemente el acreedor renuncia a la necesidad del pago.
+5. Por remisión: entrega del documento.
+6. Por confusión: Con fusión - Si el acreedor y deudor se reúnen en la misma persona. (Si tus padres te deben, fallecen y heredas la deuda, no existe más la obligación)
+7. Por la imposibilidad del pago
+8. Por la dación en pago. Cuando el acreedor voluntariamente en pago una prestación diversa distinta.
+
+Deuda - Garante - Deudor : En la novación tiene que que mantenerse un garante.
+
+### Responsibilidad Civil
+
+- **Función Preventiva**: Objetivo - Evitar o Disminuir el Daño. Antijuridicidad, Relación Causal, Imputabilidad (no necesaria).
+
+- **Función Punitiva**: Castigo Ejemplar. Caso Ford Pinto.
+
+- **Función Resarcitoria**: 
+
+    1. Antijuridicidad: Acto u omisión que va en contra del orden jurídico. Ejercicio regular de un derecho de legítima defensa o de terceros caso fortuito o fuerza mayor. Asunción de riesgo situación de peligro.
+    2. Factor Atribución: Objetiva. Dolo o Culpa. Actuar con imprudencia, negligencia o impericia. 
+    3. Relación Causalidad: El daño tiene que estar relacionado con el hecho. Relación Física (Choco y se abolla el auto). Relación Jurídica (El incumplimiento de algo acarrea más riesgo porque es necesario para repagar la deuda por ejemplo)
+    4. Daño: 
+
+        Clasificación
+    
+        - Material 
+        - Físico 
+        - Psicológico 
+        - Moral (A pesar de que no haya daño psicológico luego, el daño que sufrió durante el tiempo) 
+
+        Requisitos
+        
+        - Cierto
+        - Actual y Futuro
+        - Subsistente
+        - Propio
+        
