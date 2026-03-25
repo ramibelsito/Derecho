@@ -208,4 +208,46 @@ Deuda - Garante - Deudor : En la novación tiene que que mantenerse un garante.
         - Actual y Futuro
         - Subsistente
         - Propio
-        
+
+## Clase 25-3
+
+### Seguros:
+- Asegurar/cubrir a una persona ante un evento portuito y aleatorio
+- Prima: La contraprestación que recibe la compañía de seguros.
+- La denuncia se tiene que hacer dentro de las 72h de lo ocurrido para que este cubierto
+
+### Bolsa y Mercados de Valores:
+
+Se comercializan acciones de sociedades anonimas, bonos del estado y obligaciones
+
+### Cheques:
+- Hace falta una cuenta corriente y lo más importante es la firma (implica voluntad a menos que se especifique que es en disconformidad)
+- El cheque cruzado no se puede cobrar en efectivo - para que no lo puedan cobrar si fue robado
+- Si se escribe no transferible entonces tiene que cobrarlo dicha persona
+- Cheques de pago diferido (fecha de emisión distinta de fecha de pago) son con plazo de pago dentro de 1 día a 1 año.
+- Si difieren los números con el monto escrito, se da como prioridad el monto escrito.
+- De la fecha de pago hay un límite máximo de 30 días.
+
+### Concursos: 
+- Se lleva ante un juez: Preventivo o Liquidativo.
+
+1. Preventivo: Me junto con mis acreedores para obtener un acuerdo de pago favorable para mi.
+2. Liquidativo: Repartir los bienes para intentar saldar la mayor cantidad de deudas
+
+- Cesación de Pago: Significa que carezco de liquidez, no tengo la plata para pagar lo que debo.
+    Participación: 
+        - Sujetos (Comerciantes y no comerciantes)
+        - Personas Jurídicas (Excepto Bancos, AFJP, ART, Compañía de Seguros)
+
+**Ejectos del Concurso Preventivo**:
+
+- Toda su actividad comercial esta regulada por un 
+- Suspensión: No hará intereses sobre las deudas desde la presentación del pedido de concurso preventivo.
+- Caducidad de los plazos: Se vencen todos los plazos a futuro que yo tenía como acreedor, si no era válido el plazo hasta diciembre se vence ahora. 
+- Puedo pagar hasta el 40% de la deuda en un plazo fijo.
+
+**Efectos de la Quiebra**:
+
+- La quiebra implica la muerte de la persona jurídica (Si es una sociedad anónima no podrá volver a existir). Y la obligación de trabajo en relación de dependencia (no puede tener un negocio) por un año.
+
+vlasquez@itba.edu.ar
