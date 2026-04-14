@@ -251,3 +251,52 @@ Se comercializan acciones de sociedades anonimas, bonos del estado y obligacione
 - La quiebra implica la muerte de la persona jurídica (Si es una sociedad anónima no podrá volver a existir). Y la obligación de trabajo en relación de dependencia (no puede tener un negocio) por un año.
 
 vlasquez@itba.edu.ar
+
+## Clase 01-04
+
+### Marcas, Patentes y Derechos de Autor
+
+quien se pelea con quien?
+
+Buquebus con una empresa nueva, Colonia Express
+
+cual es el conflicto?
+
+Una publicidad sugerente que plantea una situación hipotética en la que se difama a Buquebus
+
+cual es la resolución?
+
+Como la publicidad implicitamente hace referencia a Buquebus sin ninguna duda, y plantea una situación que puede dañar la imágen de la marca; se resolvió bajar del aire la publicidad.
+
+alcance de la protección?
+
+Extensión de la Protección
+La protección brindada por las leyes 22.362, 22.802, 24.425 y 17.011 se extiende a diversos aspectos:
+1. Medidas Provisionales y Cautelares (Ley 24.425 - ADPIC) El art. 50 del ADPIC otorga a las autoridades judiciales la facultad de ordenar medidas provisionales rápidas y eficaces
+. Esto incluye:
+Evitar que se produzca una infracción a los derechos tutelados
+.
+Ordenar el cese preventivo en la utilización de una marca o de campañas publicitarias que la afecten, incluso sin haber oído a la otra parte si existe riesgo de daño irreparable
+.
+2. Protección contra la Competencia Desleal (Ley 17.011 - Convenio de París) La protección se extiende a evitar actos de competencia desleal, según el art. 10 bis del Convenio de París
+. Esto implica que:
+No es admisible que la publicidad intente denigrar o desacreditar la marca de un competidor
+.
+La protección rige incluso si no se menciona expresamente el nombre de la marca, siempre que el competidor sea inequívocamente identificable para el público
+.
+3. Límites en la Publicidad Comparativa (Leyes 22.362 y 22.802) Las fuentes distinguen dos tipos de uso de marca ajena para determinar la extensión de la protección
+:
+Uso sin autorización como si fuera propia: Se considera siempre una infracción a los derechos marcarios
+.
+Referencia como marca ajena: Es legítima si se reconoce la titularidad ajena y no se busca denigrar el producto o servicio
+. La ley prohíbe el uso de la marca ajena para compararla si esto resulta en un engaño al consumidor o un descrédito del competidor
+.
+4. Derechos del Consumidor y Lealtad Comercial La protección de las marcas también se vincula con el derecho constitucional de los consumidores a recibir información adecuada y veraz (art. 42 CN), lo que complementa la regulación de la Ley 22.802 de Lealtad Comercial para evitar distorsiones indebidas en el mercado
+
+que es una marca?
+
+1. Propiedad Intelectual: Las marcas de fábrica o de comercio son consideradas derechos de propiedad intelectual, según lo establecido en el art. 1, inc. 2 del ADPIC (aprobado por la Ley 24.425)
+
+2. Identificador Comercial: Se presentan como denominaciones bajo las cuales una empresa gira comercialmente en el mercado para distinguir sus servicios o productos de los de la competencia
+
+
