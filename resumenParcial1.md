@@ -132,6 +132,10 @@ Gobierno representativo (gobiernan los representantes del pueblo - elegidos en e
 
 Ejercido por el **presidente** de la nación que debe ser ciudadano nativo o por opción, cuya duración en su cargo por término es de 4 años y existe la posibilidad de ser reelegido por un solo período consecutivo. La elección se realiza a través del voto popular directo, con posibilidad de doble vuelta en caso de que no se obtenga en la primera más del 45% de los votos afirmativos o, en su defecto, un 40% de los votos con una superioridad del 10% de ellos respecto al candidato que le sigue.
 
+El **vicepresidente** acompaña al presidente, es elegido por el mísmo período y modalidadaes. Ejerce el cargo de presidente del Senado pero sin voto, salvo en caso de empate.
+
+#### Tareas Presidente 
+
 1. Es el jefe supremo de la Nación, jefe del gobierno y responsable político de la administración general del país
 2. Expide las instrucciones y reglamentos que sean necesarios para la ejecución de las leyes de la Nación, cuidando de no alterar su espíritu, con excepciones reglamentarias.
 3. Participa de la formación de leyes, las promulga y las hace publicar. No podrá, en ningún caso, emitir disposiciones con carácter legislativo. En circunstancias excepcionales podrá dictar decretos por razones de necesidad y urgencia, que no regulen materia penal, tributaria, electoral o el regimen de los partidos políticos. Estos deben estar en acuerdo general con los Ministros y el jefe de Gabinete de Ministros.
@@ -154,7 +158,6 @@ Ejercido por el **presidente** de la nación que debe ser ciudadano nativo o por
 
 El jefe de gabinete de Ministros somete a la comisión bicameral permanente el decreto quienes verificarán que se cumplan las formas que deben tener las normas, que se cumpla la condición de necesidad y urgencia y que no trate los temas que un DNU tiene prohibido tratar.
 
-El **vicepresidente** acompaña al presidente, es elegido por el mísmo período y modalidadaes. Ejerce el cargo de presidente del Senado pero sin voto, salvo en caso de empate.
 
 ### Poder Legislativo
 
@@ -162,6 +165,66 @@ El **vicepresidente** acompaña al presidente, es elegido por el mísmo período
 
 257 **Diputados** que duran 4 años en su cargo y se renuevan por mitades cada dos años por votación en forma directa. Requisitos: >25 años, 4 años de ciudadanía, ser natural de la provincia en la que es elegido o tener dos años de residencia inmediata. Reelegibles
 
+#### Tareas del Congreso
+
+1. Legislar en materia aduanera (importación y exportación)
+2. Imponer contribuciones indirectas como facultad concurrente con las provincias y contribuciones directas. Las contribuciones serán proporcionalidades a las facultades y responsabilidades de cada provincia, de forma de hacerla equitativa y solidaria.
+3. Establecer 
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+32. Hacer todas las leyes y reglamentos que sean convenientes para poner en ejercicio los poderes antecedentes.
+
 ### Poder Judicial
 
 Es ejercido por la Corte Suprema de Justicia de la Nación y los tribunales inferiores. La Corte Suprema está compuesta por siete miembros nombrados por el presidente de la Nación, con el acuerdo del Senado. Los requisitos para ser miembro de la Corte Suprema son: ser abogado de la Nación con 8 años de ejercicio y tener las cualidades requeridas para ser senador.
+
+#### Tareas del Poder Judicial
+
+1. Cuestiones de jerarquía constitucional y de conflicto de las leyes de la Nación.
+2. Tratados con naciones extranjeras
+3. Cuestiones que incluyan a embajadores, ministros públicos y cónsules extranjeros.
+4. Cuestiones de almirantazgo y jurisdicción marítima.
+5. Asuntos en que la Nación sea parte
+6. Conflictos entre dos o más provincias
+7. Conflictos entre una provincia y los veciones de la otra
+8. Conflictos entre vecinos de diferentes provincias
+9. Conflictos entre una provincia o sus vecinos contra un Estado o ciudadano extranjero.
+
+La corte suprema interviene por vía de apelaciones, según las reglas y excepciones que prescriban las leyes dictadas por el Congreso, con excepción de que involucre a embajadores, ministros y cónsules extranjeros y en los que una provincia fuera parte.
+
+## Control e Interependencia de los poderes
+
+Los tres poderes en casos excepcionales cumplen los roles y usa las facultades del resto, manteniendo un control cruzado de los poderes y en pos de eliminar el abuso del estado por parte de uno de los poderes.
+
+## Artículo 14
+
+Derecho a trabajar de oficios lícitos
+
+## Artículo 14 bis
+ 
+Derechos de segunda generación: Derecho a vacacionar, a una jornada laboral de 8 horas, etc
+
+## Artículo 16 
+
+Que todos los ciudadanos son iguales ante la ley
+
+## Artículo 17
+
+Derecho a la propiedad privada
+
+## Artículo 18
+
+Ningún ciudadano podrá ser penado sin un juicio previo
+
+## Artículo 19 
+
+Las acciones privadas de un hombre que no ofendan al orden moral o público o que no perjudiquen a un tercero están reservadas a dios y no podrán ser juzgadas
+
+## Artículo 28
+
+Los derechos establecidos en la constitución no podrán ser modificados por ninguna ley
