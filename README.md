@@ -38,7 +38,7 @@ sociales.
 1. **La ley**: Procedimiento de Sanción. Normas que estipulan las sanciones.
 2. **La Costrumbre**como fuente: A veces justifica lo que no esta regulado. <br>
     >La costumbre es la repetición espontánea y sostenida de actos que
-adquieren fuerza normativa. Se distingue de los usos sociales por su
+adquieren fuerza normativa. Se distingue de los usos sociales por su    
 obligatoriedad en contextos jurídicos.
     >>Art. 1 CCCN: los usos y costumbres son vinculantes cuando la ley o las partes se remiten a ellas o cuando la situación no está regulada, siempre que no
 contravengan el ordenamiento.
@@ -298,5 +298,45 @@ que es una marca?
 1. Propiedad Intelectual: Las marcas de fábrica o de comercio son consideradas derechos de propiedad intelectual, según lo establecido en el art. 1, inc. 2 del ADPIC (aprobado por la Ley 24.425)
 
 2. Identificador Comercial: Se presentan como denominaciones bajo las cuales una empresa gira comercialmente en el mercado para distinguir sus servicios o productos de los de la competencia
+
+## Clase 22-04
+
+Que son las Sociedades: Entes jurídicos con la capacidad de adquirir y ejercer derechos reemplazando a las personas en los negocios
+
+Persona Juridica:
+    
+- Pública: Estado Nacional, Estado Provincial, Iglesia Católica, Arca, 
+
+- Privada: 
+    - Sin fines de lucro:
+
+    - Con fines de lucro:
+
+YPF sigue siendo una sociedad privada con fines de lucro por ser tener el 49% de una persona jurídica privada y el 51% esta separado entre varias personas jurídicas públicas (Estado Nacional con 29% y 11% repartido entre Estados Provinciales).
+
+Una Sociedad Anónima puede estar constituida por un montón de personas tanto jurídicas y físicas.
+
+Una Sociedad Unipersonal no puede constituirse por otras sociedades unipersonales pero si puede ser socio de una sociedad anónima.
+
+Sociedad de Derecho: 
+
+NO CONFUNDIR RAZÓN SOCIAL CON MARCA!!!!! De hecho conviene que sean distintas para después no perder la marca si es que la razón social se declara en quiebra. 
+
+El domicilio se puede poner cualquiera y se puede modificar las veces que se quiera. Siempre se considera como válido y si es un lugar random y no se puede entregar la notificación, toda notificación se toma como válida. Si es funcionario público, su despacho se considera una dirección válida para notificar.
+
+Objeto Social: Los administradores estan obligados a seguir o cumplir con el objeto social. 
+
+Sociedad de Responsabilidad Limitada (SRL): Protege a los socios hasta el monto de sus aportes. Afecto Societatis: Razón por la que se elige al socio en una SRL. Es más barata que una SA pero tiene los beneficios de esta. Los socios es necesario que esten aprobados por todo el resto de los socios porque tiene que ser de confianza.
+
+
+TODAS LAS SOCIEDADES: 
+
+- Asambleas de socios
+- Gerencia
+- Órgano de Fiscalización
+
+Sociedad Anónima:
+    Asamblea > Directorio (elegido por la asamblea) > Sindicalista (este puede o no estar)
+
 
 
